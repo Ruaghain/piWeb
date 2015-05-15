@@ -1,0 +1,32 @@
+<templateSet group="React">
+  <template name="rcc" value="var $componentName$ = React.createClass({&#10;    render : function() {&#10;    }&#10;});" description="This creates a class in react." toReformat="true" toShortenFQNames="true">
+    <variable name="componentName" expression="" defaultValue="componentName" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="jsx" value="/** @jsx React.DOM */" description="Adds in the JSX comment at the top of the screen." toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="rrq" value="var React = require(&quot;react&quot;);" description="Add react require to file" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="rrc" value="React.renderComponent(&lt;$componentName$/&gt;, document.body);" description="Adds the react render component to the file." toReformat="false" toShortenFQNames="true">
+    <variable name="componentName" expression="" defaultValue="componentName" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
