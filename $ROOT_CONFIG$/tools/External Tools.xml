@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="MongoDB - MoneyTracker" description="This will run the mongodb application for moneyTracker " showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\MongoDB 2.6 Standard\bin\mongod.exe" />
+      <option name="PARAMETERS" value="--dbpath c:\dev\MongoDB\Data" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

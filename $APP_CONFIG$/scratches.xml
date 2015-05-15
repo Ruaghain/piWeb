@@ -1,0 +1,18 @@
+<application>
+  <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9" value="JSON" />
+  </component>
+</application>

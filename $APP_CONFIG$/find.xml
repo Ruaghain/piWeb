@@ -1,0 +1,18 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File 'C:\dev\javarepos\private\2014R2CodeRefactor\server\crm\src\main\java\com\sage\crm\web\services\ScreenActionUrlHelper.java'" />
+    <option name="defaultScopeName" value="File 'C:\dev\javarepos\private\2014R2CodeRefactor\server\crm\src\main\java\com\sage\crm\web\services\ScreenActionUrlHelper.java'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\dev\javarepos\private\2014R2CodeRefactor\server\crm\src\main\java\com\sage\crm\web\services\ScreenActionUrlHelper.java'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.js</mask>
+    </recentFileMasks>
+  </component>
+</application>

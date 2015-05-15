@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="defaultSettings" value="true" />
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1381498098802" />
+          <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="C:/dev/javarepos/scrm/Eclipse Settings/formatting_code_eclipse.xml" />
+          <option name="selectedJavaProfile" value="Sage CRM" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
+
